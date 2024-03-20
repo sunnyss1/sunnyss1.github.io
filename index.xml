@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sunny S Singh</title>
-    <link>https://sunnyss1.github.io/</link>
-      <atom:link href="https://sunnyss1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Sunny S Singh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Sunny S Singh</copyright>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sunnyss1.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu3b81070931b162d27e78b3c4e2d71542_56203_512x512_fill_lanczos_center_3.png</url>
       <title>Sunny S Singh</title>
-      <link>https://sunnyss1.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://sunnyss1.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sunnyss1.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
